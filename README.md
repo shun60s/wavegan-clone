@@ -5,7 +5,7 @@ This is cloned from  [chrisdonahue/wavegan](https://github.com/chrisdonahue/wave
 
 ## experiment  
 
-This is a expermental script to test wavegan on google colaboratory.   
+This is an expermental script to test wavegan on google colaboratory.   
 [wavegan_colab_practice1_sc09.ipynb](https://colab.research.google.com/github/shun60s/wavegan-clone/blob/master/wavegan_colab_practice1_sc09.ipynb)  
 
 Following is 6 hours train result using sc09 (digits speech).  
